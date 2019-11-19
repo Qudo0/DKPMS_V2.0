@@ -7,4 +7,7 @@
   	<artifactId>dkpms_prj</artifactId>
   	<version>2.0.0</version>
   	<packaging>pom</packaging>
+  	<modules>
+  		<module>dkpms_commons</module>
+  	</modules>
 </project>
