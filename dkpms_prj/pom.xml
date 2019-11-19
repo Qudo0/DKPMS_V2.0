@@ -10,5 +10,6 @@
   	<modules>
   		<module>dkpms_commons</module>
   		<module>dkpms_service</module>
+  		<module>dkpms</module>
   	</modules>
 </project>
